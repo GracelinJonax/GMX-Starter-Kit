@@ -8,7 +8,7 @@ As part of this program, we have listed the following Student Assessment Learnin
 
 - ### `Install Chrome`
     - [Chrome](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop)(15mins)<br>
-
+completed
 - ### `Code Editor`
     - [Visual Studio Code](https://www.youtube.com/watch?v=WPqXP_kLzpo)(1hr 30mins)<br>
 
